@@ -2,7 +2,7 @@
 - 👀 I’m a Data enthusiast.
 - 🌱 I’m currently learning SQL, Data vishualization.
 - 💞️ I’m looking to collaborate on Data Analysis.
-- 📫 How to reach me geethubabu974@gmail.com, https://www.linkedin.com/in/geethu-babu-6028951b5/
+- 📫 How to reach me geethubabu974@gmail.com, https://www.linkedin.com/in/geethu-babu-6028951b5/,https://geethubabu90.github.io/DataAnalysis.github.io/
 - 😄 Pronouns: She/Her
 
 
